@@ -82,7 +82,79 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/Test2.cpp">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/Test2.h">
+			<Option target="NewProject"/>
+		</Unit>
 		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/main.cpp">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task1.cpp">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task1.h">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task10.cpp">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task10.h">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task2.cpp">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task2.h">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task3.cpp">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task3.h">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task4.cpp">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task4.h">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task5.cpp">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task5.h">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task6.cpp">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task6.h">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task7.cpp">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task7.h">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task8.cpp">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task8.h">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task9.cpp">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/task9.h">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/test.cpp">
+			<Option target="NewProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/test.h">
 			<Option target="NewProject"/>
 		</Unit>
 		<Unit filename="C:/Users/Gevorg/OneDrive/Desktop/NewProject/CMakeLists.txt">

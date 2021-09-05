@@ -74,17 +74,269 @@ CMakeFiles\NewProject.dir\main.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\NewProject.dir\main.cpp.s /c C:\Users\Gevorg\OneDrive\Desktop\NewProject\main.cpp
 <<
 
+CMakeFiles\NewProject.dir\test.cpp.obj: CMakeFiles\NewProject.dir\flags.make
+CMakeFiles\NewProject.dir\test.cpp.obj: ..\test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/NewProject.dir/test.cpp.obj"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\NewProject.dir\test.cpp.obj /FdCMakeFiles\NewProject.dir\ /FS -c C:\Users\Gevorg\OneDrive\Desktop\NewProject\test.cpp
+<<
+
+CMakeFiles\NewProject.dir\test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewProject.dir/test.cpp.i"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" > CMakeFiles\NewProject.dir\test.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gevorg\OneDrive\Desktop\NewProject\test.cpp
+<<
+
+CMakeFiles\NewProject.dir\test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewProject.dir/test.cpp.s"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\NewProject.dir\test.cpp.s /c C:\Users\Gevorg\OneDrive\Desktop\NewProject\test.cpp
+<<
+
+CMakeFiles\NewProject.dir\Test2.cpp.obj: CMakeFiles\NewProject.dir\flags.make
+CMakeFiles\NewProject.dir\Test2.cpp.obj: ..\Test2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/NewProject.dir/Test2.cpp.obj"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\NewProject.dir\Test2.cpp.obj /FdCMakeFiles\NewProject.dir\ /FS -c C:\Users\Gevorg\OneDrive\Desktop\NewProject\Test2.cpp
+<<
+
+CMakeFiles\NewProject.dir\Test2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewProject.dir/Test2.cpp.i"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" > CMakeFiles\NewProject.dir\Test2.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gevorg\OneDrive\Desktop\NewProject\Test2.cpp
+<<
+
+CMakeFiles\NewProject.dir\Test2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewProject.dir/Test2.cpp.s"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\NewProject.dir\Test2.cpp.s /c C:\Users\Gevorg\OneDrive\Desktop\NewProject\Test2.cpp
+<<
+
+CMakeFiles\NewProject.dir\task1.cpp.obj: CMakeFiles\NewProject.dir\flags.make
+CMakeFiles\NewProject.dir\task1.cpp.obj: ..\task1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/NewProject.dir/task1.cpp.obj"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\NewProject.dir\task1.cpp.obj /FdCMakeFiles\NewProject.dir\ /FS -c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task1.cpp
+<<
+
+CMakeFiles\NewProject.dir\task1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewProject.dir/task1.cpp.i"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" > CMakeFiles\NewProject.dir\task1.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gevorg\OneDrive\Desktop\NewProject\task1.cpp
+<<
+
+CMakeFiles\NewProject.dir\task1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewProject.dir/task1.cpp.s"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\NewProject.dir\task1.cpp.s /c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task1.cpp
+<<
+
+CMakeFiles\NewProject.dir\task2.cpp.obj: CMakeFiles\NewProject.dir\flags.make
+CMakeFiles\NewProject.dir\task2.cpp.obj: ..\task2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/NewProject.dir/task2.cpp.obj"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\NewProject.dir\task2.cpp.obj /FdCMakeFiles\NewProject.dir\ /FS -c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task2.cpp
+<<
+
+CMakeFiles\NewProject.dir\task2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewProject.dir/task2.cpp.i"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" > CMakeFiles\NewProject.dir\task2.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gevorg\OneDrive\Desktop\NewProject\task2.cpp
+<<
+
+CMakeFiles\NewProject.dir\task2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewProject.dir/task2.cpp.s"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\NewProject.dir\task2.cpp.s /c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task2.cpp
+<<
+
+CMakeFiles\NewProject.dir\task3.cpp.obj: CMakeFiles\NewProject.dir\flags.make
+CMakeFiles\NewProject.dir\task3.cpp.obj: ..\task3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/NewProject.dir/task3.cpp.obj"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\NewProject.dir\task3.cpp.obj /FdCMakeFiles\NewProject.dir\ /FS -c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task3.cpp
+<<
+
+CMakeFiles\NewProject.dir\task3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewProject.dir/task3.cpp.i"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" > CMakeFiles\NewProject.dir\task3.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gevorg\OneDrive\Desktop\NewProject\task3.cpp
+<<
+
+CMakeFiles\NewProject.dir\task3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewProject.dir/task3.cpp.s"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\NewProject.dir\task3.cpp.s /c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task3.cpp
+<<
+
+CMakeFiles\NewProject.dir\task4.cpp.obj: CMakeFiles\NewProject.dir\flags.make
+CMakeFiles\NewProject.dir\task4.cpp.obj: ..\task4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/NewProject.dir/task4.cpp.obj"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\NewProject.dir\task4.cpp.obj /FdCMakeFiles\NewProject.dir\ /FS -c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task4.cpp
+<<
+
+CMakeFiles\NewProject.dir\task4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewProject.dir/task4.cpp.i"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" > CMakeFiles\NewProject.dir\task4.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gevorg\OneDrive\Desktop\NewProject\task4.cpp
+<<
+
+CMakeFiles\NewProject.dir\task4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewProject.dir/task4.cpp.s"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\NewProject.dir\task4.cpp.s /c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task4.cpp
+<<
+
+CMakeFiles\NewProject.dir\task5.cpp.obj: CMakeFiles\NewProject.dir\flags.make
+CMakeFiles\NewProject.dir\task5.cpp.obj: ..\task5.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/NewProject.dir/task5.cpp.obj"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\NewProject.dir\task5.cpp.obj /FdCMakeFiles\NewProject.dir\ /FS -c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task5.cpp
+<<
+
+CMakeFiles\NewProject.dir\task5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewProject.dir/task5.cpp.i"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" > CMakeFiles\NewProject.dir\task5.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gevorg\OneDrive\Desktop\NewProject\task5.cpp
+<<
+
+CMakeFiles\NewProject.dir\task5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewProject.dir/task5.cpp.s"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\NewProject.dir\task5.cpp.s /c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task5.cpp
+<<
+
+CMakeFiles\NewProject.dir\task6.cpp.obj: CMakeFiles\NewProject.dir\flags.make
+CMakeFiles\NewProject.dir\task6.cpp.obj: ..\task6.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/NewProject.dir/task6.cpp.obj"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\NewProject.dir\task6.cpp.obj /FdCMakeFiles\NewProject.dir\ /FS -c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task6.cpp
+<<
+
+CMakeFiles\NewProject.dir\task6.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewProject.dir/task6.cpp.i"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" > CMakeFiles\NewProject.dir\task6.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gevorg\OneDrive\Desktop\NewProject\task6.cpp
+<<
+
+CMakeFiles\NewProject.dir\task6.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewProject.dir/task6.cpp.s"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\NewProject.dir\task6.cpp.s /c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task6.cpp
+<<
+
+CMakeFiles\NewProject.dir\task7.cpp.obj: CMakeFiles\NewProject.dir\flags.make
+CMakeFiles\NewProject.dir\task7.cpp.obj: ..\task7.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/NewProject.dir/task7.cpp.obj"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\NewProject.dir\task7.cpp.obj /FdCMakeFiles\NewProject.dir\ /FS -c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task7.cpp
+<<
+
+CMakeFiles\NewProject.dir\task7.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewProject.dir/task7.cpp.i"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" > CMakeFiles\NewProject.dir\task7.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gevorg\OneDrive\Desktop\NewProject\task7.cpp
+<<
+
+CMakeFiles\NewProject.dir\task7.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewProject.dir/task7.cpp.s"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\NewProject.dir\task7.cpp.s /c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task7.cpp
+<<
+
+CMakeFiles\NewProject.dir\task8.cpp.obj: CMakeFiles\NewProject.dir\flags.make
+CMakeFiles\NewProject.dir\task8.cpp.obj: ..\task8.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/NewProject.dir/task8.cpp.obj"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\NewProject.dir\task8.cpp.obj /FdCMakeFiles\NewProject.dir\ /FS -c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task8.cpp
+<<
+
+CMakeFiles\NewProject.dir\task8.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewProject.dir/task8.cpp.i"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" > CMakeFiles\NewProject.dir\task8.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gevorg\OneDrive\Desktop\NewProject\task8.cpp
+<<
+
+CMakeFiles\NewProject.dir\task8.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewProject.dir/task8.cpp.s"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\NewProject.dir\task8.cpp.s /c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task8.cpp
+<<
+
+CMakeFiles\NewProject.dir\task9.cpp.obj: CMakeFiles\NewProject.dir\flags.make
+CMakeFiles\NewProject.dir\task9.cpp.obj: ..\task9.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/NewProject.dir/task9.cpp.obj"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\NewProject.dir\task9.cpp.obj /FdCMakeFiles\NewProject.dir\ /FS -c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task9.cpp
+<<
+
+CMakeFiles\NewProject.dir\task9.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewProject.dir/task9.cpp.i"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" > CMakeFiles\NewProject.dir\task9.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gevorg\OneDrive\Desktop\NewProject\task9.cpp
+<<
+
+CMakeFiles\NewProject.dir\task9.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewProject.dir/task9.cpp.s"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\NewProject.dir\task9.cpp.s /c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task9.cpp
+<<
+
+CMakeFiles\NewProject.dir\task10.cpp.obj: CMakeFiles\NewProject.dir\flags.make
+CMakeFiles\NewProject.dir\task10.cpp.obj: ..\task10.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/NewProject.dir/task10.cpp.obj"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\NewProject.dir\task10.cpp.obj /FdCMakeFiles\NewProject.dir\ /FS -c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task10.cpp
+<<
+
+CMakeFiles\NewProject.dir\task10.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NewProject.dir/task10.cpp.i"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" > CMakeFiles\NewProject.dir\task10.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gevorg\OneDrive\Desktop\NewProject\task10.cpp
+<<
+
+CMakeFiles\NewProject.dir\task10.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NewProject.dir/task10.cpp.s"
+	"C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\NewProject.dir\task10.cpp.s /c C:\Users\Gevorg\OneDrive\Desktop\NewProject\task10.cpp
+<<
+
 # Object files for target NewProject
 NewProject_OBJECTS = \
-"CMakeFiles\NewProject.dir\main.cpp.obj"
+"CMakeFiles\NewProject.dir\main.cpp.obj" \
+"CMakeFiles\NewProject.dir\test.cpp.obj" \
+"CMakeFiles\NewProject.dir\Test2.cpp.obj" \
+"CMakeFiles\NewProject.dir\task1.cpp.obj" \
+"CMakeFiles\NewProject.dir\task2.cpp.obj" \
+"CMakeFiles\NewProject.dir\task3.cpp.obj" \
+"CMakeFiles\NewProject.dir\task4.cpp.obj" \
+"CMakeFiles\NewProject.dir\task5.cpp.obj" \
+"CMakeFiles\NewProject.dir\task6.cpp.obj" \
+"CMakeFiles\NewProject.dir\task7.cpp.obj" \
+"CMakeFiles\NewProject.dir\task8.cpp.obj" \
+"CMakeFiles\NewProject.dir\task9.cpp.obj" \
+"CMakeFiles\NewProject.dir\task10.cpp.obj"
 
 # External object files for target NewProject
 NewProject_EXTERNAL_OBJECTS =
 
 NewProject.exe: CMakeFiles\NewProject.dir\main.cpp.obj
+NewProject.exe: CMakeFiles\NewProject.dir\test.cpp.obj
+NewProject.exe: CMakeFiles\NewProject.dir\Test2.cpp.obj
+NewProject.exe: CMakeFiles\NewProject.dir\task1.cpp.obj
+NewProject.exe: CMakeFiles\NewProject.dir\task2.cpp.obj
+NewProject.exe: CMakeFiles\NewProject.dir\task3.cpp.obj
+NewProject.exe: CMakeFiles\NewProject.dir\task4.cpp.obj
+NewProject.exe: CMakeFiles\NewProject.dir\task5.cpp.obj
+NewProject.exe: CMakeFiles\NewProject.dir\task6.cpp.obj
+NewProject.exe: CMakeFiles\NewProject.dir\task7.cpp.obj
+NewProject.exe: CMakeFiles\NewProject.dir\task8.cpp.obj
+NewProject.exe: CMakeFiles\NewProject.dir\task9.cpp.obj
+NewProject.exe: CMakeFiles\NewProject.dir\task10.cpp.obj
 NewProject.exe: CMakeFiles\NewProject.dir\build.make
 NewProject.exe: CMakeFiles\NewProject.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable NewProject.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable NewProject.exe"
 	"C:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\NewProject.dir --rc="C:\PROGRA~2\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe" --mt="C:\PROGRA~2\Windows Kits\10\bin\10.0.19041.0\x86\mt.exe" --manifests -- "C:\PROGRA~2\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\NewProject.dir\objects1.rsp @<<
  /out:NewProject.exe /implib:NewProject.lib /pdb:C:\Users\Gevorg\OneDrive\Desktop\NewProject\cmake-build-debug\NewProject.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

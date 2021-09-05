@@ -118,6 +118,30 @@ NewProject\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\build
 .PHONY : NewProject\fast
 
+Test2.obj: Test2.cpp.obj
+.PHONY : Test2.obj
+
+# target to build an object file
+Test2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\Test2.cpp.obj
+.PHONY : Test2.cpp.obj
+
+Test2.i: Test2.cpp.i
+.PHONY : Test2.i
+
+# target to preprocess a source file
+Test2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\Test2.cpp.i
+.PHONY : Test2.cpp.i
+
+Test2.s: Test2.cpp.s
+.PHONY : Test2.s
+
+# target to generate assembly for a file
+Test2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\Test2.cpp.s
+.PHONY : Test2.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -142,6 +166,270 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\main.cpp.s
 .PHONY : main.cpp.s
 
+task1.obj: task1.cpp.obj
+.PHONY : task1.obj
+
+# target to build an object file
+task1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task1.cpp.obj
+.PHONY : task1.cpp.obj
+
+task1.i: task1.cpp.i
+.PHONY : task1.i
+
+# target to preprocess a source file
+task1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task1.cpp.i
+.PHONY : task1.cpp.i
+
+task1.s: task1.cpp.s
+.PHONY : task1.s
+
+# target to generate assembly for a file
+task1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task1.cpp.s
+.PHONY : task1.cpp.s
+
+task10.obj: task10.cpp.obj
+.PHONY : task10.obj
+
+# target to build an object file
+task10.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task10.cpp.obj
+.PHONY : task10.cpp.obj
+
+task10.i: task10.cpp.i
+.PHONY : task10.i
+
+# target to preprocess a source file
+task10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task10.cpp.i
+.PHONY : task10.cpp.i
+
+task10.s: task10.cpp.s
+.PHONY : task10.s
+
+# target to generate assembly for a file
+task10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task10.cpp.s
+.PHONY : task10.cpp.s
+
+task2.obj: task2.cpp.obj
+.PHONY : task2.obj
+
+# target to build an object file
+task2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task2.cpp.obj
+.PHONY : task2.cpp.obj
+
+task2.i: task2.cpp.i
+.PHONY : task2.i
+
+# target to preprocess a source file
+task2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task2.cpp.i
+.PHONY : task2.cpp.i
+
+task2.s: task2.cpp.s
+.PHONY : task2.s
+
+# target to generate assembly for a file
+task2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task2.cpp.s
+.PHONY : task2.cpp.s
+
+task3.obj: task3.cpp.obj
+.PHONY : task3.obj
+
+# target to build an object file
+task3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task3.cpp.obj
+.PHONY : task3.cpp.obj
+
+task3.i: task3.cpp.i
+.PHONY : task3.i
+
+# target to preprocess a source file
+task3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task3.cpp.i
+.PHONY : task3.cpp.i
+
+task3.s: task3.cpp.s
+.PHONY : task3.s
+
+# target to generate assembly for a file
+task3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task3.cpp.s
+.PHONY : task3.cpp.s
+
+task4.obj: task4.cpp.obj
+.PHONY : task4.obj
+
+# target to build an object file
+task4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task4.cpp.obj
+.PHONY : task4.cpp.obj
+
+task4.i: task4.cpp.i
+.PHONY : task4.i
+
+# target to preprocess a source file
+task4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task4.cpp.i
+.PHONY : task4.cpp.i
+
+task4.s: task4.cpp.s
+.PHONY : task4.s
+
+# target to generate assembly for a file
+task4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task4.cpp.s
+.PHONY : task4.cpp.s
+
+task5.obj: task5.cpp.obj
+.PHONY : task5.obj
+
+# target to build an object file
+task5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task5.cpp.obj
+.PHONY : task5.cpp.obj
+
+task5.i: task5.cpp.i
+.PHONY : task5.i
+
+# target to preprocess a source file
+task5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task5.cpp.i
+.PHONY : task5.cpp.i
+
+task5.s: task5.cpp.s
+.PHONY : task5.s
+
+# target to generate assembly for a file
+task5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task5.cpp.s
+.PHONY : task5.cpp.s
+
+task6.obj: task6.cpp.obj
+.PHONY : task6.obj
+
+# target to build an object file
+task6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task6.cpp.obj
+.PHONY : task6.cpp.obj
+
+task6.i: task6.cpp.i
+.PHONY : task6.i
+
+# target to preprocess a source file
+task6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task6.cpp.i
+.PHONY : task6.cpp.i
+
+task6.s: task6.cpp.s
+.PHONY : task6.s
+
+# target to generate assembly for a file
+task6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task6.cpp.s
+.PHONY : task6.cpp.s
+
+task7.obj: task7.cpp.obj
+.PHONY : task7.obj
+
+# target to build an object file
+task7.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task7.cpp.obj
+.PHONY : task7.cpp.obj
+
+task7.i: task7.cpp.i
+.PHONY : task7.i
+
+# target to preprocess a source file
+task7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task7.cpp.i
+.PHONY : task7.cpp.i
+
+task7.s: task7.cpp.s
+.PHONY : task7.s
+
+# target to generate assembly for a file
+task7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task7.cpp.s
+.PHONY : task7.cpp.s
+
+task8.obj: task8.cpp.obj
+.PHONY : task8.obj
+
+# target to build an object file
+task8.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task8.cpp.obj
+.PHONY : task8.cpp.obj
+
+task8.i: task8.cpp.i
+.PHONY : task8.i
+
+# target to preprocess a source file
+task8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task8.cpp.i
+.PHONY : task8.cpp.i
+
+task8.s: task8.cpp.s
+.PHONY : task8.s
+
+# target to generate assembly for a file
+task8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task8.cpp.s
+.PHONY : task8.cpp.s
+
+task9.obj: task9.cpp.obj
+.PHONY : task9.obj
+
+# target to build an object file
+task9.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task9.cpp.obj
+.PHONY : task9.cpp.obj
+
+task9.i: task9.cpp.i
+.PHONY : task9.i
+
+# target to preprocess a source file
+task9.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task9.cpp.i
+.PHONY : task9.cpp.i
+
+task9.s: task9.cpp.s
+.PHONY : task9.s
+
+# target to generate assembly for a file
+task9.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\task9.cpp.s
+.PHONY : task9.cpp.s
+
+test.obj: test.cpp.obj
+.PHONY : test.obj
+
+# target to build an object file
+test.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\test.cpp.obj
+.PHONY : test.cpp.obj
+
+test.i: test.cpp.i
+.PHONY : test.i
+
+# target to preprocess a source file
+test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\test.cpp.i
+.PHONY : test.cpp.i
+
+test.s: test.cpp.s
+.PHONY : test.s
+
+# target to generate assembly for a file
+test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewProject.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\NewProject.dir\test.cpp.s
+.PHONY : test.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -151,9 +439,45 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... NewProject
+	@echo ... Test2.obj
+	@echo ... Test2.i
+	@echo ... Test2.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... task1.obj
+	@echo ... task1.i
+	@echo ... task1.s
+	@echo ... task10.obj
+	@echo ... task10.i
+	@echo ... task10.s
+	@echo ... task2.obj
+	@echo ... task2.i
+	@echo ... task2.s
+	@echo ... task3.obj
+	@echo ... task3.i
+	@echo ... task3.s
+	@echo ... task4.obj
+	@echo ... task4.i
+	@echo ... task4.s
+	@echo ... task5.obj
+	@echo ... task5.i
+	@echo ... task5.s
+	@echo ... task6.obj
+	@echo ... task6.i
+	@echo ... task6.s
+	@echo ... task7.obj
+	@echo ... task7.i
+	@echo ... task7.s
+	@echo ... task8.obj
+	@echo ... task8.i
+	@echo ... task8.s
+	@echo ... task9.obj
+	@echo ... task9.i
+	@echo ... task9.s
+	@echo ... test.obj
+	@echo ... test.i
+	@echo ... test.s
 .PHONY : help
 
 
